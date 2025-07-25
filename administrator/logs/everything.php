@@ -115,3 +115,7 @@
 2025-07-25T10:24:16+00:00	WARNING 49.36.65.142	jerror	JInstaller: :Install: File does not exist [ROOT][TMP]/install_68835b5098036/bermuda/js
 2025-07-25T10:24:16+00:00	WARNING 49.36.65.142	jerror	JInstaller: :Install: File does not exist [ROOT][TMP]/install_68835b5098036/bermuda/en-GB/tpl_bermuda.ini
 2025-07-25T10:57:17+00:00	WARNING 49.36.65.142	jerror	Joomla\Filesystem\File::delete: Failed deleting js
+2025-07-25T11:16:11+00:00	INFO 49.36.65.142	updater	Loading information from update site #2 with name "Accredited Joomla! Translations" and URL https://update.joomla.org/language/translationlist_5.xml took 0.06 seconds
+2025-07-25T11:16:11+00:00	INFO 49.36.65.142	updater	Loading information from update site #3 with name "Joomla! Update Component" and URL https://update.joomla.org/core/extensions/com_joomlaupdate.xml took 0.06 seconds
+2025-07-25T11:21:35+00:00	INFO 49.36.65.142	controller	Holding edit ID com_menus.edit.menu.3 Array (     [0] => 3 ) 
+2025-07-25T11:21:41+00:00	INFO 49.36.65.142	controller	Releasing edit ID com_menus.edit.menu.3 Array ( ) 

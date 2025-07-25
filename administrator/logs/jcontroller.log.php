@@ -19,3 +19,5 @@
 2025-07-22T05:14:06+00:00	INFO 123.201.29.218	controller	Holding edit ID com_users.edit.user.3 Array (     [0] => 3 ) 
 2025-07-22T05:14:06+00:00	INFO 123.201.29.218	controller	Checking edit ID com_users.edit.user.3: 1 Array (     [0] => 3 ) 
 2025-07-22T05:14:23+00:00	INFO 123.201.29.218	controller	Releasing edit ID com_users.edit.user.3 Array ( ) 
+2025-07-25T11:21:35+00:00	INFO 49.36.65.142	controller	Holding edit ID com_menus.edit.menu.3 Array (     [0] => 3 ) 
+2025-07-25T11:21:41+00:00	INFO 49.36.65.142	controller	Releasing edit ID com_menus.edit.menu.3 Array ( ) 

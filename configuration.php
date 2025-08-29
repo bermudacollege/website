@@ -10,7 +10,7 @@ class JConfig {
 	public $list_limit = 20;
 	public $access = 1;
 	public $frontediting = 1;
-	public $debug = true;
+	public $debug = false;
 	public $debug_lang = false;
 	public $debug_lang_const = true;
 	public $dbtype = 'mysqli';
